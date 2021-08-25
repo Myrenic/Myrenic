@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Myrenic
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning React
+- 📫 Reach out to me on LinkedIn
