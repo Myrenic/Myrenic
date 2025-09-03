@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Myrenic
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning React
-- 📫 Reach out to me on LinkedIn
+# 👋 Hi, I'm Mike
+
+IT professional from the Netherlands, focused on **infrastructure, security, automation and monitoring**.  
+I run a homelab with **Kubernetes, ArgoCD, Terraform, and Proxmox** to explore GitOps and CI/CD.  
+Currently working on **kubernetes**, **Python** and sharpening my **engineering skills**.
+
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/Myrenic/archtype)
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/Myrenic/highlights)
